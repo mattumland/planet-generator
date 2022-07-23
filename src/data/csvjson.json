@@ -1,0 +1,24 @@
+[
+  {
+    "designation": "PGD-A1",
+    "gravity (% of earth)": 90,
+    "atmosphere": "toxic",
+    "terrain": "rocky",
+    "average temperature (f)": 102,
+    "water prevalence (% of surface covered)": 23,
+    "hooks & seeds": "An antiquated satellite broadcasts on all frequencies about the luscious, green world of tomorrow.",
+    "flora & fauna": "Flash rainfall results in instantaneous and vibrant eruptions of life.",
+    "mysteries & phenomena": "Shrines dedicated to unknown gods dot this world, long forgotten."
+  },
+  {
+    "designation": "PGD-A2",
+    "gravity (% of earth)": 80,
+    "atmosphere": "sexy",
+    "terrain": "wet",
+    "average temperature (f)": 69,
+    "water prevalence (% of surface covered)": 69,
+    "hooks & seeds": "Your ship’s AI requests to go here. No explanation",
+    "flora & fauna": "8-legged nocturnal hunters roam the landscape in a solitary hunt for 1000x calorie dense bloated swine.",
+    "mysteries & phenomena": "Non-Newtonian physics resists rapid movement, halting thrusters and ballistics."
+  }
+]
